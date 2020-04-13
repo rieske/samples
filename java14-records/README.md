@@ -1,6 +1,6 @@
 ## Java 14 Records
 
-[![Actions Status](https://github.com/rieske/samples/workflows/java14-records/badge.svg)](https://github.com/rieske/sample/actions)
+[![Actions Status](https://github.com/rieske/samples/workflows/java14-records/badge.svg)](https://github.com/rieske/samples/actions)
 
 Sample application demonstrating how to use the Java 14 Records preview feature.
 
