@@ -1,4 +1,4 @@
-name: java14-records example
+name: java14-records
 
 on:
   push:
